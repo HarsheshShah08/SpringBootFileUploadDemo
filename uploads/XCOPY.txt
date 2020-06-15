@@ -1,0 +1,1 @@
+xcopy "C:\Users\Harshesh\Pictures\Kavir\Sep2017" "F:\Acer Laptop Backup\Pictures\Kavir" /D /E /C /R /H /I /K /Y
